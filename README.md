@@ -32,11 +32,13 @@ This repo will track my progress on developing a habit of reading one book a wee
 ##### Technical skills:
 
 1. Learning to use Google Colab
-2. Improving Pyhton skill (mostly Pandas/Numpy/Matplotlib)
-3. Improve Github skill
+2. Learning to use ANKI flash cards app
+3. Improving Pyhton skill (mostly Pandas/Numpy/Matplotlib)
+4. Improve Github skill
 
 ### Next steps:
 
 1. Finish measuring the current reading speed
 2. Set-up the spreadsheet for measuring the reading speed of the books
-3. Start working on the code
+3. Set-up ANKI app
+4. Start working on the code
