@@ -1,7 +1,13 @@
 # one-book-a-week
 
+### Introduction
+
 This repo will track my progress on developing a habit of reading one book a week. Inspired by Jim Kwik.
 
+
+### Table of content
+
+:wrench: WIP
 
 ### Rough plan:
 
@@ -42,3 +48,8 @@ This repo will track my progress on developing a habit of reading one book a wee
 2. Set-up the spreadsheet for measuring the reading speed of the books
 3. Set-up ANKI app
 4. Start working on the code
+
+
+### License
+
+:wrench: WIP
