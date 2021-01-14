@@ -53,6 +53,11 @@ This repo will track my progress on developing a habit of reading one book a wee
 4. Start working on the code
 
 
+### Resources (I might need)
+
+- [https://cloud.google.com/scheduler](https://cloud.google.com/scheduler): for automating the job of running the script
+
+
 ### License
 
 :wrench: WIP
